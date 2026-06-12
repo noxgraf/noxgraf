@@ -1,1 +1,1 @@
-# Checkout my [Writeups Collection](https://github.com/noxgraf/md-writeups-collection)
+[Writeups Collection](https://github.com/noxgraf/md-writeups-collection)
